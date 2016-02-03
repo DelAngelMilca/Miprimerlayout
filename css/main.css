@@ -1,0 +1,53 @@
+.container{
+	width:700px;
+	margin: 0 auto;
+}
+li {
+ display: inline-block;
+
+}
+hr{
+
+}
+.centro{
+	text-align: center;
+}
+.portafolio{
+	width: 1000px;
+	height: 100%;
+	border: 1px solid black;
+	position:relative;
+	left:45px;
+	padding: 30px;
+	margin-top: 40px;
+}
+.fotoporta{
+	border-radius: 100%;
+	position:relative;
+	left: 45%;
+}
+.barra{
+	background-color: gray;
+	height: 50px;
+	margin-bottom: 30px;
+	text-align:left;
+	padding: 3px;
+}
+.barra1 {
+	width: 450px;
+	
+}
+.barra2{
+	width: 300px;
+}
+.barra3{
+	width: 200px;
+}
+h1{
+	text-align: center;
+}
+.img {
+	height: 250px;
+	width: 250px;
+	display: inline-block;
+}
